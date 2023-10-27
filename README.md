@@ -22,7 +22,7 @@ Besides coding, I have a strong passion for sports:
 
 Feel free to explore my repositories, check out my work, and get in touch. Whether it's about code, sports, or just to say hello, I'm always open to connecting with fellow developers and sports enthusiasts.
 
-([(https://www.linkedin.com/in/jesthen-baez-hernandez/))
+(https://www.linkedin.com/in/jesthen-baez-hernandez/)
 
 Thanks for visiting, and I look forward to collaborating with you!
 
