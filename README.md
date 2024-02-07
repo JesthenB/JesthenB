@@ -8,7 +8,7 @@ I'm Jesthen Baez, a passionate developer with expertise in various technologies 
 - ⚛️ I specialize in React and Next.js, building modern and responsive web solutions.
 - 📁 Node.js and Express are my go-to tools for server-side development.
 - 🐘 I'm skilled in working with databases, including PostgreSQL and SQL.
-- 📘 Currently, I'm on a journey to master TypeScript to enhance code quality and maintainability.
+- 📘 Embarking on a transformative journey, I am dedicated to mastering TypeScript for elevating code quality and ensuring maintainability. Simultaneously, I am delving deep into the realm of Java, expanding my expertise to craft robust and versatile solutions.
 
 ## Interests
 
